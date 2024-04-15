@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto de uma Leanding Page com Flex e Grid!
 
-- [Acesse o projeto finalizado, online](https://github.com/CarlosHerbertDev/leanding-page-flexegrid/)
+- [Acesse o projeto finalizado, online](https://carlosherbertdev.github.io/leanding-page-flexegrid/)
