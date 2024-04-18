@@ -11,14 +11,10 @@ Projeto Leanding Page com Flex e Grid!<br/>
 </p>
 
 <br>
-  <p align= 'center'>Desktop Version</p>
-  <p align= 'center'>
-  <img alt="blog preview card main" src="./design/desltop.png" width='100%'>
-  </p>
-  <p align= 'center'>Mobile Version</p>
-  <p align= 'center'>
-  <img alt="blog preview card main" src="./design/mobile.png">
-  </p>
+<p align= 'center' style= display:flex;gap:40px;justify-content:center;>
+<img alt="blog preview card main" src="./design/desltop.png" width='71%' height=''>
+<img alt="blog preview card main" src="./design/mobile.png" width= '20%'>
+</p>
 
 ## 🚀 Tecnologias
 
